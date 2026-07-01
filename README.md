@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHTGt1B36ziHg/profile-displaybackgroundimage-shrink_350_1400/B4DZtmv7mKKoAg-/0/1766955400486?e=1772064000&v=beta&t=2gcEayDUxo3wuEwli04yI-4J_M6G0Vf2nCY35cnarno)
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
