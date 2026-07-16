@@ -2,11 +2,11 @@
 <h3 align="center">Student of Information Systems and Technologies · Software Architect · Full-Stack Developer </h3>
 
 # 🌍 About Me : <img src="https://komarev.com/ghpvc/?username=iemirakman&label=Profile%20views&color=0e75b6&style=flat" alt="iemirakman" /> </p>
-I engineer resilient systems by merging architectural aesthetics with production-grade reality. Currently advancing in Information Systems at Mehmet Akif Ersoy University, my trajectory is strictly calculated: a U.S. Ph.D. followed by founding globally consequential technology enterprises.
+I am İbrahim Emir Akman, a 20-year-old developer based in Denizli, currently studying Information Systems and Technologies at Mehmet Akif Ersoy University. My highly analytical and disciplined approach to engineering—rooted in my background as a high school valedictorian—enables me to naturally bridge the gap between hardware architecture and software development.
 
-Operating far beyond safe abstractions, I take absolute ownership of the stack. I directly orchestrate Linux VDS/VPS infrastructures, optimize complex databases, and enforce stringent cybersecurity hardening protocols to ensure uncompromising performance.
+I continuously refine my expertise in Python, system analysis, and integration through hands-on application. Beyond theoretical knowledge, I have actively contributed to IBM "Kodluyoruz" projects and spent two years volunteering at Uluslararası BAMBU Derneği, a role that deeply instilled in me a strong understanding of collaborative project and community culture.
 
-My execution is validated by leadership. As a Bilteg executive, IBM "Kodluyoruz" contributor, and BAMBU veteran, I do not merely write syntax. I architect robust ecosystems designed for absolute scale.
+Engineering, to me, is far more than typing lines of code on a screen; it is about designing functional systems that interact directly with users, untangle complex problems, and deliver practical, real-world utility. I am a fast-learning, adaptable problem solver fully committed to adding immediate, concrete value to the initiatives I join.
 
 # 📊 GitHub Stats:
 <picture>
