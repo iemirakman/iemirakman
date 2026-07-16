@@ -10,9 +10,9 @@ I have knowledge in many technical areas, ranging from hardware architecture to 
 My goal is to pursue a Ph.D. in the United States; after that, I plan to start my own companies and, through them, bring to life innovations that will lead the world in my field. Beyond technology, I have a deep interest in art; by blending technology with art, I design my projects with the meticulous care of a work of art.</h4>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GEX-JE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GEX-JE&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GEX-JE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iemirakman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iemirakman&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iemirakman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
@@ -20,7 +20,7 @@ My goal is to pursue a Ph.D. in the United States; after that, I plan to start m
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🌐 Socials : <img src="https://komarev.com/ghpvc/?username=gex-je&label=Profile%20views&color=0e75b6&style=flat" alt="gex-je" /> </p>
+## 🌐 Socials : <img src="https://komarev.com/ghpvc/?username=iemirakman&label=Profile%20views&color=0e75b6&style=flat" alt="iemirakman" /> </p>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iemirakman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-emir-akman/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GEXJE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iemirakman@icloud.com) 
 
 
@@ -31,7 +31,7 @@ My goal is to pursue a Ph.D. in the United States; after that, I plan to start m
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GEX-JE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=iemirakman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GEX-JE&icon=8&color=0)](https://visitcount.itsvg.in)
