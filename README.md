@@ -8,6 +8,12 @@ I continuously refine my expertise in Python, system analysis, and integration t
 
 Engineering, to me, is far more than typing lines of code on a screen; it is about designing functional systems that interact directly with users, untangle complex problems, and deliver practical, real-world utility. I am a fast-learning, adaptable problem solver fully committed to adding immediate, concrete value to the initiatives I join.
 
+<p align="center">
+  <a href="https://github.com/sponsors/iemirakman">
+    <img src="./.github/luxury-sponsor.svg" width="280" alt="Sponsor iemirakman"/>
+  </a>
+</p>
+
 # 📊 GitHub Stats:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
@@ -21,14 +27,7 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/sponsors/komutan234">
-    <img src="./.github/luxury-sponsor.svg" width="280" alt="Sponsor iemirakman"/>
-  </a>
-</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iemirakman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iemirakman&icon=8&color=0)](https://visitcount.itsvg.in)
