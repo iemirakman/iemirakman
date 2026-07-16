@@ -31,6 +31,12 @@ My goal is to pursue a Ph.D. in the United States; after that, I plan to start m
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+  <a href="https://github.com/sponsors/komutan234">
+    <img src="./.github/luxury-sponsor.svg" width="280" alt="Sponsor iemirakman"/>
+  </a>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iemirakman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
