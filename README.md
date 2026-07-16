@@ -1,6 +1,7 @@
 <h1 align="center">İbrahim Emir Akman</h1>
 <h3 align="center">Computer Engineer student · Entrepreneur · Software Architect · Full-Stack Developer </h3>
-# <h4 align="center">I am a 20-year-old software developer living in Denizli; I have had a keen interest in software since I was 12 years old. I graduated at the top of my class from an Anatolian high school and am currently studying Information Systems and Technologies at Mehmet Akif Ersoy University.
+### 🌍 About Me
+<h4 align="center">I am a 20-year-old software developer living in Denizli; I have had a keen interest in software since I was 12 years old. I graduated at the top of my class from an Anatolian high school and am currently studying Information Systems and Technologies at Mehmet Akif Ersoy University.
 
 I have participated in various technology events across Turkey, volunteered for two years at the International BAMBU Education Association, taken part in IBM’s “Kodluyoruz” projects, and continue to participate in initiatives that help me grow professionally.
 
