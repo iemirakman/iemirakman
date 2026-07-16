@@ -1,5 +1,5 @@
 <h1 align="center">İbrahim Emir Akman</h1>
-<h3 align="center">*Computer Engineer student · Entrepreneur · Software Architect · Full-Stack Developer *</h3>
+<h3 align="center">**Computer Engineer student · Entrepreneur · Software Architect · Full-Stack Developer **</h3>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GEX-JE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
