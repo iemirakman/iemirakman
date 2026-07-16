@@ -2,7 +2,7 @@
 <h3 align="center">Student of Information Systems and Technologies · Full-Stack Developer </h3>
 
 # 🌍 About Me : <img src="https://komarev.com/ghpvc/?username=iemirakman&label=Profile%20views&color=0e75b6&style=flat" alt="iemirakman" /> </p>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iemirakman/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iemirakman/)
 I am İbrahim Emir Akman, a 20-year-old developer based in Denizli, currently studying Information Systems and Technologies at Mehmet Akif Ersoy University. My highly analytical and disciplined approach to engineering—rooted in my background as a high school valedictorian—enables me to naturally bridge the gap between hardware architecture and software development.
 
 I continuously refine my expertise in Python, system analysis, and integration through hands-on application. Beyond theoretical knowledge, I have actively contributed to IBM "Kodluyoruz" projects and spent two years volunteering at Uluslararası BAMBU Derneği, a role that deeply instilled in me a strong understanding of collaborative project and community culture.
