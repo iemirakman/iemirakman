@@ -1,6 +1,5 @@
 <h1 align="center">İbrahim Emir Akman</h1>
 <h3 align="center">Computer Engineer student · Entrepreneur · Software Architect · Full-Stack Developer </h3>
-### 🌍 About Me
 <h4 align="center">I am a 20-year-old software developer living in Denizli; I have had a keen interest in software since I was 12 years old. I graduated at the top of my class from an Anatolian high school and am currently studying Information Systems and Technologies at Mehmet Akif Ersoy University.
 
 I have participated in various technology events across Turkey, volunteered for two years at the International BAMBU Education Association, taken part in IBM’s “Kodluyoruz” projects, and continue to participate in initiatives that help me grow professionally.
@@ -8,7 +7,7 @@ I have participated in various technology events across Turkey, volunteered for 
 I have knowledge in many technical areas, ranging from hardware architecture to software development. Ever since I was introduced to technology, I have continuously improved my skills in areas such as Python, programming, system analysis, and integration. I am a quick learner and open to new ideas. Participating in projects helps me find better solutions. Keeping up with innovations and improving my skills has become a routine for me. This allows me to add value to the projects I’m involved in. For me, it’s not just about writing code or setting up a system. I want to create solutions that engage with users, simplify tasks, are useful in real life, and deliver great digital experiences.
 
 My goal is to pursue a Ph.D. in the United States; after that, I plan to start my own companies and, through them, bring to life innovations that will lead the world in my field. Beyond technology, I have a deep interest in art; by blending technology with art, I design my projects with the meticulous care of a work of art.</h4>
-
+# 🌍 About Me
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iemirakman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iemirakman&theme=tokyonight&hide_border=false)<br/>
