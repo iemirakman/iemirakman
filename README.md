@@ -15,13 +15,13 @@ My goal is to pursue a Ph.D. in the United States; after that, I plan to start m
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GEX-JE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GEX-JE/GEX-JE/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GEX-JE/GEX-JE/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GEXJE/GEXJE/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
 </picture>
 
 ## 🌐 Socials : <img src="https://komarev.com/ghpvc/?username=gex-je&label=Profile%20views&color=0e75b6&style=flat" alt="gex-je" /> </p>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iemirakman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-emir-akman/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/GEXJE) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GEXJE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iemirakman@icloud.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iemirakman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-emir-akman/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GEXJE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iemirakman@icloud.com) 
 
 
 # 💻 Tech Stack : 
