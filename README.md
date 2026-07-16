@@ -9,10 +9,6 @@ Operating far beyond safe abstractions, I take absolute ownership of the stack. 
 My execution is validated by leadership. As a Bilteg executive, IBM "Kodluyoruz" contributor, and BAMBU veteran, I do not merely write syntax. I architect robust ecosystems designed for absolute scale.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iemirakman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iemirakman&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iemirakman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
