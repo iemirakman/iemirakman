@@ -35,4 +35,4 @@ My goal is to pursue a Ph.D. in the United States; after that, I plan to start m
 ![](https://github-contributor-stats.vercel.app/api?username=iemirakman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GEX-JE&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iemirakman&icon=8&color=0)](https://visitcount.itsvg.in)
