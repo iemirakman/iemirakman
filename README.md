@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer student · Entrepreneur · Software Architect · Full-Stack Developer </h3>
 
 # 🌍 About Me
-*I am a 20-year-old software developer living in Denizli; I have had a keen interest in software since I was 12 years old. I graduated at the top of my class from an Anatolian high school and am currently studying Information Systems and Technologies at Mehmet Akif Ersoy University.
+I am a 20-year-old software developer living in Denizli; I have had a keen interest in software since I was 12 years old. I graduated at the top of my class from an Anatolian high school and am currently studying Information Systems and Technologies at Mehmet Akif Ersoy University.
 
 I have participated in various technology events across Turkey, volunteered for two years at the International BAMBU Education Association, taken part in IBM’s “Kodluyoruz” projects, and continue to participate in initiatives that help me grow professionally.
 
