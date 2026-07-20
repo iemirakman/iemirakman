@@ -4,7 +4,7 @@
 # 🌍 About Me : <img src="https://komarev.com/ghpvc/?username=iemirakman&label=Profile%20views&color=0e75b6&style=flat" alt="iemirakman" /> </p> 
 I am İbrahim Emir Akman, a 20-year-old developer based in Denizli, currently studying Information Systems and Technologies at Mehmet Akif Ersoy University. My highly analytical and disciplined approach to engineering—rooted in my background as a high school valedictorian—enables me to naturally bridge the gap between hardware architecture and software development.
 
-I continuously refine my expertise in Python, system analysis, and integration through hands-on application. Beyond theoretical knowledge, I have actively contributed to IBM "Kodluyoruz" projects and spent two years volunteering at Uluslararası BAMBU Derneği, a role that deeply instilled in me a strong understanding of collaborative project and community culture.
+I continuously refine my expertise in Python, system analysis, and integration through hands-on application. Beyond theoretical knowledge, I have actively contributed to IBM "Kodluyoruz" projects and spent two years volunteering at International Bamboo Association, a role that deeply instilled in me a strong understanding of collaborative project and community culture.
 
 Engineering, to me, is far more than typing lines of code on a screen; it is about designing functional systems that interact directly with users, untangle complex problems, and deliver practical, real-world utility. I am a fast-learning, adaptable problem solver fully committed to adding immediate, concrete value to the initiatives I join.
 
