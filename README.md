@@ -15,6 +15,17 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
 </p>
 
 # 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td>
+      <!-- <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-night-view.svg" align="center"/>
+      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-gitblock-night.svg" align="center"/>
+      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-gitblock-night.svg" align="center"/>  -->
+      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
+    </td>
+  </tr>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
