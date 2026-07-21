@@ -18,10 +18,10 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
 <table align="center">
   <tr>
     <td>
-      <!-- <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-night-view.svg" align="center"/>
-      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-gitblock-night.svg" align="center"/>
-      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-gitblock-night.svg" align="center"/>  -->
-      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/master/profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
+      <!-- <img width="794" src="https://github.com/iemirakman/iemirakman/blob/main/profile-3d-contrib/profile-night-view.svg" align="center"/>
+      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/main/profile-3d-contrib/profile-gitblock-night.svg" align="center"/>
+      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/main/profile-3d-contrib/profile-gitblock-night.svg" align="center"/>  -->
+      <img width="794" src="https://github.com/iemirakman/iemirakman/blob/main/profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
     </td>
   </tr>
 </table>
