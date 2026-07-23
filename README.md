@@ -1,5 +1,7 @@
-<h1 align="center">İbrahim Emir Akman</h1>
-<h3 align="center">Student of Information Systems and Technologies · Full-Stack Developer </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=220&section=header&text=İbrahim%20Emir%20Akman&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Student%20of%20Information%20Systems%20and%20Technologies%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20"/>
+</div>
+
 
 # 🌍 About Me : <img src="https://komarev.com/ghpvc/?username=iemirakman&label=Profile%20views&color=0e75b6&style=flat" alt="iemirakman" /> </p> 
 I am İbrahim Emir Akman, a 20-year-old developer based in Denizli, currently studying Information Systems and Technologies at Mehmet Akif Ersoy University. My highly analytical and disciplined approach to engineering—rooted in my background as a high school valedictorian—enables me to naturally bridge the gap between hardware architecture and software development.
