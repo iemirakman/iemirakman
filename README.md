@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iemirakman&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiemirakman&query=%24.public_repos&label=Public%20Repos&color=000000&style=for-the-badge&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiemirakman&query=%24.public_repos&label=Public%20Repos&color=333333&style=for-the-badge&logo=github" alt="Public Repos" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiemirakman&query=%24.followers&label=Followers&color=2b9348&style=for-the-badge&logo=github" alt="Followers" />
 </div>
 
