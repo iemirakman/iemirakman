@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiemirakman&query=%24.followers&label=Followers&color=2b9348&style=for-the-badge&logo=github" alt="Followers" />
 </div>
 
-
-# 🌍 About Me : <img src="https://komarev.com/ghpvc/?username=iemirakman&label=Profile%20views&color=0e75b6&style=flat" alt="iemirakman" /> </p> 
+# 🌍 About Me : 
 I am İbrahim Emir Akman, a 20-year-old developer based in Denizli, currently studying Information Systems and Technologies at Mehmet Akif Ersoy University. My highly analytical and disciplined approach to engineering—rooted in my background as a high school valedictorian—enables me to naturally bridge the gap between hardware architecture and software development.
 
 I continuously refine my expertise in Python, system analysis, and integration through hands-on application. Beyond theoretical knowledge, I have actively contributed to IBM "Kodluyoruz" projects and spent two years volunteering at International Bamboo Association, a role that deeply instilled in me a strong understanding of collaborative project and community culture.
