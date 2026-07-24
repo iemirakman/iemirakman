@@ -48,11 +48,58 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- KEY PROJECTS -->
+## 🏗️ Key Projects
+
+<table width="100%">
+<tr>
+<td width="50%">
+<h3 align="center">🏢 Enterprise Application Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Modern%20CRM%20Platform-326CE5?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Monica%20CRM-F46800?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Espo%20CRM-0074D9?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SN%20Code%20Library-E6522C?style=flat-square&logoColor=white"/>
+</p>
+<p align="center"><em>Building enterprise solutions that improve customer management, IT service operations, and business processes through CRM, ITSM platforms, workflow automation, and customized enterprise applications.</em></p>
+</td>
+<td width="50%">
+<h3 align="center">🔄 Enterprise Automation & Integration</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Security%20ITSM%20Connector-632CA6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation%20Hub-000000?style=flat-square&logoColor=white"/>
+</p>
+<p align="center"><em>Building API-driven integration solutions that connect CRM, ITSM, and business systems, enabling secure data exchange, process automation, and seamless communication between enterprise platforms.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">💻 Full-Stack Web Engineering</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow%20Tracker-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Learning%20Platform-632CA6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Student%20Information%20System-E6522C?style=flat-square&logoColor=white"/>
+</p>
+<p align="center"><em>Building modern and scalable business applications using frontend and backend technologies, developing responsive user interfaces, reliable APIs, database solutions, and enterprise-grade software systems.</em></p>
+</td>
+<td width="50%">
+<h3 align="center">☁️ Cloud & Scalable Systems</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise%20Digital%20Platform-232F3E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Automation%20Platform-632CA6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Business%20Platform-E6522C?style=flat-square&logoColor=white"/>
+</p>
+<p align="center"><em>Building secure, scalable, and maintainable cloud applications by applying modern architecture, DevOps practices, CI/CD pipelines, containerization, and cloud infrastructure for enterprise environments.</em></p>
+</td>
+</tr>
+</table>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
 </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iemirakman&icon=8&color=0)](https://visitcount.itsvg.in)
+
 
 
