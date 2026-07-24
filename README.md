@@ -28,6 +28,12 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/sponsors/iemirakman">
+    <img src="./.github/luxury-sponsor.svg" width="280" alt="Sponsor iemirakman"/>
+  </a>
+</p>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/demo/preview.php?user=iemirakman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
@@ -45,11 +51,7 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/sponsors/iemirakman">
-    <img src="./.github/luxury-sponsor.svg" width="280" alt="Sponsor iemirakman"/>
-  </a>
-</p>
+
 
 # 💻 Tech Stack : 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) !![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
