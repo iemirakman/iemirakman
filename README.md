@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=220&section=header&text=İbrahim%20Emir%20Akman&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Student%20of%20Information%20Systems%20and%20Technologies%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20"/>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iemirakman&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiemirakman&query=%24.public_repos&label=Public%20Repos&color=000000&style=for-the-badge&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiemirakman&query=%24.followers&label=Followers&color=2b9348&style=for-the-badge&logo=github" alt="Followers" />
+</div>
+
 
 # 🌍 About Me : <img src="https://komarev.com/ghpvc/?username=iemirakman&label=Profile%20views&color=0e75b6&style=flat" alt="iemirakman" /> </p> 
 I am İbrahim Emir Akman, a 20-year-old developer based in Denizli, currently studying Information Systems and Technologies at Mehmet Akif Ersoy University. My highly analytical and disciplined approach to engineering—rooted in my background as a high school valedictorian—enables me to naturally bridge the gap between hardware architecture and software development.
@@ -43,6 +49,9 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iemirakman&icon=8&color=0)](https://visitcount.itsvg.in)
