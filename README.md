@@ -30,8 +30,6 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
   </a>
 </p>
 
-
-
 <br/>
 
 <table align="center">
@@ -45,6 +43,12 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 # 💻 Tech Stack : 
@@ -54,11 +58,7 @@ Engineering, to me, is far more than typing lines of code on a screen; it is abo
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <!-- KEY PROJECTS -->
 ## 🏗️ Key Projects
